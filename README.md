@@ -1,6 +1,7 @@
 # Final Project
 ### E-17 Robotics and Artificial Intelligence
-## Goal of the Project: Create a NVIDIA Jetson Nano capable of intersection navigation to include stop sign detection, traffic light compliance across a moderately complex city 
+## Project
+Create a NVIDIA Jetson Nano capable of intersection navigation to include stop sign detection, traffic light compliance across a moderately complex city 
 ## Team Virginia Members: 
 * David Bartles 
 * Kapil Parkhi
@@ -25,7 +26,6 @@
 ## References:
 * https://www.waveshare.com/wiki/JetBot_AI_Kit
 * https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb
-* https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance
 * https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance
 ## Link to White Paper
 * https://docs.google.com/document/d/1ualUyon_yFZ7DIpuCaVGY2wueg2gNCW-n8hHYbmSwiI/edit?usp=sharing
