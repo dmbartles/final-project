@@ -29,3 +29,6 @@ Create a NVIDIA Jetson Nano capable of intersection navigation to include stop s
 * https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks/collision_avoidance
 ## Link to White Paper
 * https://docs.google.com/document/d/1ualUyon_yFZ7DIpuCaVGY2wueg2gNCW-n8hHYbmSwiI/edit?usp=sharing
+## Link to Model Repository
+Models are too large to store in Github repository
+* https://drive.google.com/drive/folders/1lmA3aXEFzU0_A8EdcrEeKc5V_crltZWh?usp=sharing
