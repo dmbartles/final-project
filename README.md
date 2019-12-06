@@ -32,7 +32,7 @@ Create a NVIDIA Jetson Nano capable of intersection navigation to include stop s
 ## Video Links
 * Collision Detection Demo: https://youtu.be/FHMWaEPh8OI
 * Sign Recognition Demo: https://youtu.be/wW9pXnQQlUw
-* Lane Detection + Sign Recognition: TBD
+* Lane Detection + Sign Recognition: https://youtu.be/w3u-eglc8uU
 ## Link to Model Repository
 Models are too large to store in Github repository
 * https://drive.google.com/drive/folders/1lmA3aXEFzU0_A8EdcrEeKc5V_crltZWh?usp=sharing
